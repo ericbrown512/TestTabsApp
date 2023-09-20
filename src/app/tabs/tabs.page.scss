@@ -1,0 +1,11 @@
+
+.container {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+ion-tabs {
+    position: relative;
+    height: 1200px; //Have to set a height here, it wont grow with content
+}
